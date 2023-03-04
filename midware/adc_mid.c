@@ -1,6 +1,6 @@
 
 #include "adc_mid.h"
-#include "adc.h"
+#include "adc.h" 
 #include "gpio.h"
 #include "bgr.h"
 #include "key.h"

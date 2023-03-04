@@ -1,4 +1,4 @@
-/******************************************************************************
+/****************************************************************************** 
 * Copyright (C) 2017, Huada Semiconductor Co.,Ltd All rights reserved.
 *
 * This software is owned and published by:

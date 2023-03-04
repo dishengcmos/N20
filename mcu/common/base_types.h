@@ -1,8 +1,8 @@
 /******************************************************************************
-* Copyright (C) 2019, Huada Semiconductor Co.,Ltd All rights reserved.    
+* Copyright (C) 2019, Huada Semiconductor Co.,Ltd All rights reserved.     
 *
 * This software is owned and published by: 
-* Huada Semiconductor Co.,Ltd ("HDSC").
+* Huada Semiconductor Co.,Ltd ("HDSC"). 
 *
 * BY DOWNLOADING, INSTALLING OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND 
 * BY ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
